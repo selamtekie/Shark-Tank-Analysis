@@ -19,7 +19,9 @@ The first episode of season one aired in 2009 and the last episode of season six
 Total of 122 episodes and 495 companies
 Amount in the data refers to the amount invested by the sharks 
 Valuation is calculated, amount/equity
+
 Sharks 
+
 Barbara Corcoran, Daymond John, Kevin O’Leary
 Lori Greiner, Mark Cuban, Robert Herjavec
 
