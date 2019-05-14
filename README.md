@@ -17,6 +17,7 @@ Data for the first six seasons of the show was collected from Data World.The fir
 
 Amount in the data refers to the amount invested by the sharks 
 Valuation is calculated, amount/equity
+
 link = https://data.world/chasewillden/shark-tank-companies
 
 ### Sharks 
