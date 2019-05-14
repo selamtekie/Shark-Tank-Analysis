@@ -25,3 +25,4 @@ Valuation is calculated, amount/equity
 Barbara Corcoran, Daymond John, Kevin O’Leary
 Lori Greiner, Mark Cuban, Robert Herjavec
 
+<img width="717" alt="Screen Shot 2019-05-13 at 9 36 07 PM" src="https://user-images.githubusercontent.com/42395543/57667500-56675680-75c9-11e9-8bbe-fbc0a5dfeb94.png">
