@@ -5,7 +5,7 @@ Shark Tank is a reality business-themed show on ABC where entrepreneurs come to
 
 ## Motivation
 
-In recent years the Shark Tank, the nationally acclaimed series has become my family’s favorite. During the introduction part every episode, the viewers and the sharks learn about the businesses/entrepreneurs successes or impediments and why they need the sharks partnership/investments
+In recent years the Shark Tank, the nationally acclaimed series has become one of my favorite TV shows. During the introduction part every episode, the viewers and the sharks learn about the businesses/entrepreneurs successes or impediments and why they need the sharks partnership/investments
 
 ## Data Question
 
