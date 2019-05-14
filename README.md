@@ -13,12 +13,11 @@ Based on previous episodes I wanted to do an exploratory data analysis and look 
 
 ## Data
 
-https://data.world/chasewillden/shark-tank-companies
-Data for the first six seasons of the show was collected from Data World
-The first episode of season one aired in 2009 and the last episode of season six aired in 2015
-Total of 122 episodes and 495 companies
+Data for the first six seasons of the show was collected from Data World.The first episode of season one aired in 2009 and the last episode of season six aired in 2015. Data for the six season of Shark Tank includes a total of 122 episodes and information on 495 companies. 
+
 Amount in the data refers to the amount invested by the sharks 
 Valuation is calculated, amount/equity
+link = https://data.world/chasewillden/shark-tank-companies
 
 ### Sharks 
 
